@@ -1,1 +1,1 @@
-# ckub-penguin2.0
+# club-penguin2.0
